@@ -2,7 +2,7 @@
 
 打包提交包含 PointNet 和 PointNet++ SSG 在 ModelNet40 分类任务上的复现代码、评估脚本和部分评估结果。代码默认使用已经预采样好的 `modelnet40_normal_resampled` 数据集，可以在报告看到下载链接；模型权重也可在报告中的链接打开，解压缩后将 `checkpoints`、`modelnet40_normal_resampled `文件夹放到根目录下即可
 
-- 运行命令均假设当前工作目录为本README文件所在目录（根目录）
+- 运行命令均假设当前工作目录为本README.md文件所在目录（根目录）
 
 ## 1. 文件结构
 
